@@ -4,6 +4,7 @@
         
         function mostrarCuentos(){
             include 'listaCuentos.tpl.html';
+            echo 'fabi gayolo chema to loko';
         }
         
     }
